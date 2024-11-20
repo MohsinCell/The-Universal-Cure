@@ -5,7 +5,7 @@
 A mysterious virus has plunged humanity into chaos, and the fate of the world rests in your hands. Each chapter holds a challenge, a test of your intellect and resolve. Will you uncover the secrets, solve the riddles, and bring salvation to a desperate world?
 
 ## How It Works
-1. Read the guide provided in the **Chapter 0**.
+1. Read the guide provided in the [**Chapter 0**](https://drive.google.com/file/d/1bg1aRyWkXqvn3hlezi3uL71VYDxKquP0/view?usp=drive_link).
 2. Solve the puzzle at the end of each chapter to earn the password for the next.
 
 ## Note
@@ -18,4 +18,4 @@ A mysterious virus has plunged humanity into chaos, and the fate of the world re
 PS : If you face any troubles accessing the files, you can directly open it from [here](https://drive.google.com/drive/folders/1awVP7Z_-5ifWJhQZxlZJTiA4lxMGcs6o?usp=sharing)
 
 ---
->####*Good luck!*
+>*Good luck!*
